@@ -8,8 +8,7 @@
 ### 🛠️Tech Stacks
 
 ### Frontend
- ![Static Badge](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=10&color=7952B3) ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=10&color=06B6D4) ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=10&color=F7DF1E) ![Static Badge](https://img.shields.io/badge/Alpine.js-blue?style=for-the-badge&logo=javascript&logoColor=white&logoSize=10&color=8BC0D0)
-
+![Static Badge](https://img.shields.io/badge/Bootstrap%205-violet?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=10&color=7952B3) ![Static Badge](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=10&color=06B6D4) ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=10&color=F7DF1E) ![Static Badge](https://img.shields.io/badge/Alpine.js-blue?style=for-the-badge&logo=alpinedotjs&logoColor=white&logoSize=10&color=8BC0D0)
 
 ### Backend
 ![Static Badge](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&logoSize=10&color=FF2D20) ![Static Badge](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&logoSize=10&color=092E20)
