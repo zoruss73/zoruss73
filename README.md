@@ -12,7 +12,11 @@
 
 ### Backend
 ![Static Badge](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&logoSize=10&color=FF2D20) ![Static Badge](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&logoSize=10&color=092E20)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&logoSize=10&color=4479A1)
+
 
 ### Others
 ![Static Badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&logoSize=10&color=F05032)
